@@ -1,0 +1,3 @@
+﻿  la4.cpp
+L:\Лабы2\Логика\3\la4\la4\la4.cpp(13,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  la4.vcxproj -> L:\Лабы2\Логика\3\la4\Debug\la4.exe
